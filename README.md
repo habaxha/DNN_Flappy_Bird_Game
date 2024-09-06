@@ -24,8 +24,8 @@ This project is coded with Python and implements a Flappy Bird game with an AI t
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/flappy-bird-ai.git
-   cd flappy-bird-ai
+   git clone https://github.com/habaxha/DNN_Flappy_Bird_Game
+   cd DNN_Flappy_Bird_Game
    ```
 
 2. Install the required packages:
