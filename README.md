@@ -37,7 +37,7 @@ This project is coded with Python and implements a Flappy Bird game with an AI t
 
 Run the main script:
 ```
-python flappy_bird_ai.py
+python flappy_bird_game.py
 ```
 
 The game will start with a menu screen. Press SPACE or click the START button to begin. The game will first run in training mode, collecting data for the AI. After training, it will switch to autoplay mode where the AI plays the game.
